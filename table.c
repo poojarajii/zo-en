@@ -12,7 +12,5 @@ int main()
                 printf("%d\t%d\t%d\t%d\n",i,j,k,(i|j|k));
             }
         }
-    }
-    
-    
+    } 
 }
